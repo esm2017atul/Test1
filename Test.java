@@ -1,4 +1,4 @@
-```ruby
+```java
   def foo
     puts 'bar'
   end
